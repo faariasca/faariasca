@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faariasca
-- 👀 I’m interested in Mathematics, Education.
+- 👀 I’m interested in Mathematics, Physics, Astronomy, Computer Science, Anthropology.
 - 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on CERN.
 - 📫 How to reach me on FB: Fabio A. Cárdenas
 
 <!---
